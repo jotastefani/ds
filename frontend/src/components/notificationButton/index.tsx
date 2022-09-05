@@ -1,5 +1,5 @@
-import btn from '../../assets/img/notification-icon.svg'
-import './styles.css'
+import btn from '../../assets/img/notification-icon.svg';
+import './styles.css';
 
 function NotificationButton() {
   return (
@@ -7,6 +7,6 @@ function NotificationButton() {
       <img src={btn} alt="Icon Notification SMS"/>
     </div>
   )
-}
+};
 
-export default NotificationButton
+export default NotificationButton;
